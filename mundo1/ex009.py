@@ -1,0 +1,22 @@
+n = int(input('Escolha um número e veja a tabuada: '))
+um = 1 * n 
+dois = 2 * n
+tres = 3 * n
+quatro = 4 * n 
+cinco = 5 * n 
+seis = 6 * n 
+sete = 7 * n 
+oito = 8 * n
+nove = 9 * n 
+dez = 10 * n
+r1 = um
+r2 = dois 
+r3 = tres
+r4 = quatro
+r5 = cinco
+r6 = seis
+r7 = sete 
+r8 = oito
+r9 = nove 
+r10 = dez
+print(' 1 x {} = {} \n 2 x {} = {} \n 3 x {} = {} \n 4 x {} = {} \n 5 x {} = {} \n 6 x {} = {} \n 7 x {} = {} \n 8 x {} = {} \n 9 x {} = {} \n 10 x {} = {}'.format(n, r1, n, r2, n, r3, n, r4, n, r5, n, r6, n, r7, n, r8, n, r9, n, r10))
