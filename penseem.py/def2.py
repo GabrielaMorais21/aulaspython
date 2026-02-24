@@ -1,8 +1,8 @@
 import math
 
-def print_twice(bruce):
-    print(bruce)    
-    print(bruce)   #  Repete duas vezes a função
-             
-print_twice('GO MIBR')
-print_twice(math.pi)     #  Que colocar dentro da chamada da função
+def twice(pqp):
+    print(pqp)    
+    print(pqp)   #  Repete duas vezes a função
+    twice('GO MIBR')
+    twice(math.pi)    
+     #  coloca dentro da chamada da função
