@@ -23,11 +23,11 @@ def contador(i,f,p):
             cont -= p
         print('FIM!')
 
-# PROGRAMA PRINCIPAL
-
+# PROGRAMA PRINCIPA
 contador(1,10,1)
 contador(0,10,2)
 inicio = int(input('Início: '))
 fim = int(input('Fim:    '))
 passo = int(input('Passos: '))
 contador(inicio, fim, passo)
+# O PROGRAMA PRINCIPAL É EXECUTADO EM ORDEM DENTRO DE DEF 

@@ -44,4 +44,4 @@ def contador(inicio, fim, passo):
 inicio = int(input('Ínicio: '))
 fim = int(input('Fim: '))
 passo = int(input('Passo: '))
-contador(inicio, passo, fim)        # que coisa feia
+contador(inicio, passo, fim)        # que coisa feia pqp
